@@ -1,0 +1,5 @@
+com\practice\pages\GoogleSearchPage.class
+com\practice\pages\GoogleSearchPageObjects.class
+com\practice\test\GoogleSearchPageTest.class
+com\practice\test\ExtentReport.class
+com\practice\test\ExtentReportsDemoTestNG.class

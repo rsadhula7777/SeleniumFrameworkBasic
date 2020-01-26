@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.practice.test.GoogleSearchPageTest" duration-ms="11727" started-at="2020-01-26T03:18:02 IST" finished-at="2020-01-26T03:18:13 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11727" started-at="2020-01-26T03:18:02 IST" finished-at="2020-01-26T03:18:13 IST">
+      <class name="com.practice.test.GoogleSearchPageTest">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:com.practice.test.GoogleSearchPageTest@5bcab519]" name="setUpTest" is-config="true" duration-ms="3344" started-at="2020-01-26T03:18:02 IST" finished-at="2020-01-26T03:18:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="googleSearchTest()[pri:0, instance:com.practice.test.GoogleSearchPageTest@5bcab519]" name="googleSearchTest" duration-ms="7557" started-at="2020-01-26T03:18:05 IST" finished-at="2020-01-26T03:18:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.practice.test.GoogleSearchPageTest@5bcab519]" name="tearDown" is-config="true" duration-ms="774" started-at="2020-01-26T03:18:13 IST" finished-at="2020-01-26T03:18:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.practice.test.GoogleSearchPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.practice.test.GoogleSearchPageTest -->
+</testng-results>

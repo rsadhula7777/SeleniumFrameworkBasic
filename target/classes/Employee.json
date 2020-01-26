@@ -1,0 +1,17 @@
+{
+	"firstName": "John",
+	"lastName": "doe",
+	"age": 26,
+	"address": [
+		{
+			"streetAddress": "naist street",
+			"city": "Nara",
+			"postalCode": "630-0192"
+		},
+		{
+			"streetAddress": "XXXX",
+			"city": "Hyderabad",
+			"postalCode": "630-0199"
+		}
+	]
+}
